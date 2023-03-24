@@ -1,0 +1,170 @@
+body{
+  margin: 0px;
+  text-align: center;
+  font-family:'Cormorant Garamond', serif;
+  font-size: 1rem;
+  color: #40514e;
+}
+
+h1{
+  margin:50px auto 0px auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+  color: #658864;
+
+}
+
+h2{
+  font-family: 'Michroma', sans-serif;
+  font-size: 2.5rem;
+  color: #658864;
+  font-weight: normal;
+}
+
+.edit{
+  font-size: 0.9rem;
+}
+
+h3{
+  color: #3C6255;
+}
+.top-container{
+  background-color: #EEEEEE;
+  padding-top: 100px;
+  position: relative;
+}
+
+.gym{
+  width: 25%;
+  height: 25%;
+  margin: auto;
+}
+
+p{
+  line-height: 2;
+}
+
+.p-intro{
+  width: 25%;
+  margin: auto;
+}
+.middle-container{
+  margin: 5% 0;
+}
+
+.skill-row{
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.codeimg{
+  width: 25%;
+  float:left;
+  margin-right: 30px;
+}
+
+
+.photo{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+
+.bottom-cloud{
+  position: absolute;
+  left: 300px;
+  width: 10%;
+  height: 7%;
+}
+
+.top-cloud{
+  position: absolute;
+  top: 50px;
+  right: 300px;
+  width: 10%;
+  height: 7%;
+}
+
+.get-in-touch{
+  width: 12.5%;
+}
+.contact-me{
+  margin-bottom: 5rem;
+}
+
+.contact-me p{
+
+  width: 25%;
+  margin: auto;
+  margin-bottom: 4rem;
+}
+.btn{
+  background-color: #658864;
+  text-decoration: none;
+  font-family: 'Michroma', sans-serif;
+  font-size: 0.9rem;
+  padding: 12px 20px;
+  color: white;
+  margin-top: 50px;
+  border-radius: 5px;
+  text-shadow: 0.65px 0.75px 0px black;
+}
+
+.btn:hover{
+  background-color: #EEEEEE;
+  text-decoration: none;
+  font-family: 'Michroma', sans-serif;
+  font-size: 0.9rem;
+  padding: 12px 20px;
+  color: #658864;
+  margin-top: 50px;
+  border-radius: 5px;
+  text-shadow: 0.65px 0.75px 0px black;
+  transition: 1s;
+}
+
+.profile img{
+  width: 12.5%;
+}
+.bottom-container{
+  background-color: #658864;
+  color: white;
+  padding: 3rem;
+
+}
+
+.footer-link{
+  color: white;
+  padding: 1.5rem;
+  text-decoration: none;
+  text-shadow: 0.65px 0.75px 0px black;
+  font-family:'Cormorant Garamond', serif;
+
+}
+
+.footer-link:hover{
+  color: #658864;
+  transition: 1s;
+}
+
+.bottom-container:hover{
+  background-color: #B7B78A;
+  color: #658864;
+  padding: 3rem;
+  transition: 1s
+
+}
+
+.bottom-container p{
+  padding: 1rem;
+}
+
+hr{
+  border: none;
+  border-top: 0.5rem dotted grey;
+  width: 7%;
+  margin: 4% auto;
+}
